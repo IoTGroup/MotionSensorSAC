@@ -1,0 +1,7 @@
+Context-Provided: control.ambient.motion.sensor
+Bundle-SymbolicName: MotionSensorSAC
+Manifest-Version: 1.0
+Created-By: LoCCAM Adapter
+Minimal-Version: 4.4.2
+Class-Path: $HOME/.m2/repository/cacadapter/cacadapter/1.1.0/cacadapter-1.1.0.jar
+ISensor-Class: br.ufc.great.iot.sac.MotionSensorSAC
